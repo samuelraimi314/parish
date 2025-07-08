@@ -122,7 +122,7 @@ export default function Home() {
         <Heading mb={4} color="blue.600">Service Times</Heading>
         <Text fontSize="md">📅 Sunday Service: 10:00 AM</Text>
         <Text fontSize="md">📖 Bible Study: Wednesday 6:00 PM</Text>
-        <Text fontSize="md">📍 Location: 123 Faith Avenue, Lagos</Text>
+        <Text fontSize="md">📍 Location: 12 Odashi Street Adaloko, ijanki Ojo, Lagos</Text>
         <Button as={Link} to="/contact" mt={4} colorScheme="teal">
           View Map
         </Button>
